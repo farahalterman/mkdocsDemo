@@ -19,7 +19,9 @@ jobs:
         with:
           python-version: 3.x
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
-      - uses: actions/cache@v4
+      # New (Node.js 24 compatible)
+      - uses: actions/checkout@v4.2.2   # or latest patch
+      - uses: actions/upload-artifact@v4.6.2  # or latest patch
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
