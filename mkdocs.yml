@@ -6,18 +6,18 @@ theme:
     # Dark Mode
     - scheme: slate
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: Dark mode
       primary: green
-      accent: deep purple
+      accent: light green
 
     # Light Mode
     - scheme: default
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Light mode
-      primary: blue
-      accent: deep orange
+      primary: green
+      accent: light green
 
 markdown_extensions:
   - pymdownx.inlinehilite
