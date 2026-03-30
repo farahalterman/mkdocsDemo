@@ -8,5 +8,6 @@ PyCharm
 JetBrains
 IDE
 AI
-Plugins
+ML
+Plugin
 Focused window
