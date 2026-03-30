@@ -15,7 +15,8 @@ or are enrolled and have not begun classes.
 * A laptop that you plan to use for the course (Any operating system is fine) that you have administrator permissions
 on.
 * Connection to the internet to search and install software.
-* 
+* This guide assumes the user will be following from a new installation of PyCharm. Users who have changed various 
+settings since installation are welcome to follow this guide, but may run into conflict with previously made changes. 
 
 ## Project layout
 
