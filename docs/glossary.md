@@ -9,3 +9,4 @@ JetBrains
 IDE
 AI
 Plugins
+Focused window
