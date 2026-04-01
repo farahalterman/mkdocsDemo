@@ -44,7 +44,7 @@ There are multiple ways to access the settings menu in PyCharm, however this met
 what part of the application you are currently accessing.
 
 1. Ensure that the PyCharm window is focused.
-2. In the top menu bar of the application click on "PyCharm".
+2. In the top right corner of the application click on the small gear icon.
 3. Click on "Settings..." in the drop-down menu.
 4. By default, the specific settings page that was last open will reopen. You can click on the various options in the 
 left panel of the menu window to open, expand, or collapse them.
@@ -55,7 +55,8 @@ left panel of the menu window to open, expand, or collapse them.
 
 ??? note "Note - Settings Menu Shortcut"
 
-    The default keyboard shortcut to open the settings menu on Windows is: `control + ,`. On macOS it is: `command + ,`.
+    The default keyboard shortcut to open the settings menu on Windows is: `Ctrl + Alt + s`.
+    On macOS it is: `Cmd + ,`.
 
 ---
 
