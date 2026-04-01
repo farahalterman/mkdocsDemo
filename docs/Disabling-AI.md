@@ -139,7 +139,7 @@ the right side provides details on the selected plugin. Scroll down the plugins 
 
 !!! success "Success"
 
-    The bundled AI & ML plugins have been succuessfully disabled. Continue to the Nest Steps section below.
+    The bundled AI & ML plugins have been succuessfully disabled. Continue to the Next Steps section below.
 
 
 
