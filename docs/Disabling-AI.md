@@ -44,7 +44,8 @@ There are multiple ways to access the settings menu in PyCharm, however this met
 what part of the application you are currently accessing.
 
 1. Ensure that the PyCharm window is focused.
-2. In the top right corner of the application click on the small gear icon.
+2. In the top right corner of the application click on the small gear icon. If you are on the "Welcome to PyCharm Page",
+the icon will be located in the bottom left corner.
 3. Click on "Settings..." in the drop-down menu.
 4. By default, the specific settings page that was last open will reopen. You can click on the various options in the 
 left panel of the menu window to open, expand, or collapse them.
@@ -73,9 +74,9 @@ side of the menu window.
 Under that uncheck the checkbox beside "Sort completion suggestions based on machine learning".
 
     ??? note "Note - Highlighted Options"
-    
-        Because we have used the search feature, the menu has already highlighted the section and checkbox we are looking 
-        for. This will happen anytime the search is used to locate a setting.
+
+        Because we have used the search feature, the menu has already highlighted the section and checkbox we are
+        looking for. This will happen anytime the search is used to locate a setting.
 
 !!! success "Success"
 
@@ -98,8 +99,8 @@ completion suggestions". Uncheck that box, the rest of the options on this page 
 
     ??? note "Note - Highlighted Options"
     
-        Because we have used the search feature, the menu has already highlighted the section and checkbox we are looking 
-        for. This will happen anytime the search is used to locate a setting.
+        Because we have used the search feature, the menu has already highlighted the section and checkbox we are 
+        looking for. This will happen anytime the search is used to locate a setting.
 
 !!! success "Success"
 
