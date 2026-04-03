@@ -1,6 +1,6 @@
-# Linking a Github Account {#linkGit-head}
+# Linking a Github Account
 
-## Overview {#linkGit-overview}
+## Overview
 
 In this section, you will learn how to link your Github account to PyCharm. This will allow you to
 clone Github repositories, push and pull changes, and work on a codebase collaboratively with others.
@@ -9,25 +9,26 @@ clone Github repositories, push and pull changes, and work on a codebase collabo
 
 ---
 
-## Generating a token {#linkGit-token}
+## Generating a token
 
 1. **Open** the settings menu 
-:  Refer to [Disabling AI](Disabling-AI.md) for detailed steps to open the settings menu.
+:  Refer to [Opening the Settings Menu](Disabling-AI.md#opening-the-settings-menu) for detailed steps to open the settings menu.
 2. **Type** `version control` into the search bar
-3. **Click** [Version Control/GitHub] on the left side menu
-4. **Click** [Add account]
-:  [Image 2]
-   After clicking [Add account], a selection box will popup.
+3. **Click** [Version Control]>[GitHub] on the left side menu
+:   ![Settings menu highlighting GitHub](assets/Token_01_Settings.png"Settings menu highlighting GitHub")  
+4. **Click** [+] in the top left corner of the menu
+:  ![Settings menu highlighting GitHub](assets/Token_02_Settings.png"Settings menu highlighting GitHub")  
+   After clicking [+], a selection box will popup.
 5. **Click** [Log In with Token]
-:  [Image 3]
+:  ![Add GitHub Account pop up menu](assets/Token_03_Settings.png"Add GitHub Account pop up menu")  
    This will cause the popup window [Add GitHub Account] to appear.
 6. **Click** "Generate"
-:  [Image 4]
+:  ![GitHub's Confirm Access webpage](assets/Token_04_Github_Access.png"GitHub's Confirm Access webpage")  
    This will open a Github on your preferred browser.
 7. **Confirm** access to Github by entering your password
-:  TODO:Review how to write this note. Admonition or no?
-   Note: It is assumed you are already logged into your Github account
+:   It is assumed you are already [logged into your Github account](https://github.com/login).
 8. **Set** your token expiry date (default 30 days)
+:   ![Setting token expiration date on Github](assets/Token_05_Github_Create_Token.png"Setting token expiration date on Github")
 
     ??? note "Note - How long should you set the expiry for?"
 
@@ -41,14 +42,14 @@ clone Github repositories, push and pull changes, and work on a codebase collabo
 :   The default scopes that are selected for your token should be adequate.
     If desired, you can select all of the scopes (there is no [Select All] button unfortunately).
 10. **Copy** the generated token
-:   [Image 6]
+:   ![Generated Github token to link with PyCharm](assets/Token_06_Github_Create_Token.png"Generated Github token to link with PyCharm")
 11. **Switch** back to PyCharm and paste your token
 12. **Click** [Add Account]
 
 
 ---
 
-## Next Steps {#linkGit-nextSteps}
+## Next Steps
 
 If you followed all the previous steps in order, you will have successfully linked your GitHub to Pycharm, and are ready to move on to INSERT SECTION NAME HERE. If you were unable to locate any of the
 options, please follow this troubleshooting guide.
