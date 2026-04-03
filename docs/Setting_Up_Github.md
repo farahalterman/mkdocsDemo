@@ -28,9 +28,9 @@ clone Github repositories, push and pull changes, and work on a codebase collabo
 7. **Confirm** access to Github by entering your password
 :   It is assumed you are already [logged into your Github account](https://github.com/login).
 8. **Set** your token expiry date (default 30 days)
-:   ![Setting token expiration date on Github](assets/Token_05_Github_Create_Token.png"Setting token expiration date on Github")
+:    ![Setting token expiration date on Github](assets/Token_05_Github_Create_Token.png"Setting token expiration date on Github")
 
-    ??? note "Note - How long should you set the expiry for?"
+    ??? question "How long should you set the expiry for?"
 
         Basically, the shorter the token life, the more secure it will be.
         If someone gains access to your token, this will affect the integrity of your GitHub account.
