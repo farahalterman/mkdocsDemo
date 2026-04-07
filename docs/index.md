@@ -7,8 +7,8 @@ This guide is to assist BCIT students enrolled in the Computer Systems Technolog
 
 ## Intended Users
 
-The intended users of this guide are people who are planning to take the COMP 1510 course "Programming Methods" at BCIT,
-or are enrolled and have not begun classes. 
+The intended users of this guide are people who are planning to take the COMP 1510 course "Programming Methods" at BCIT
+in the Downtown Campus, or are enrolled and have not begun classes. 
 
 ## Prerequisites
 

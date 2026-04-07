@@ -40,14 +40,14 @@ This guide provides step-by-step instructions on what specific setting are neede
 
 ## Opening the Settings Menu
 
-There are multiple ways to access the settings menu in PyCharm, however this method should be available to you no matter
-what part of the application you are currently accessing.
+There are multiple ways to access the settings menu in PyCharm, however this method should be available to you while you
+are accessing almost any part of the application.
 
-1. Ensure that the PyCharm window is focused.
-2. In the top right corner of the application click on the small gear icon. If you are on the "Welcome to PyCharm Page",
-the icon will be located in the bottom left corner.
-3. Click on "Settings..." in the drop-down menu.
-4. By default, the specific settings page that was last open will reopen. You can click on the various options in the 
+1. **Focus** the PyCharm window.
+2. **Click** on the [small gear icon] in the top right corner of the application. If you are on the "Welcome to PyCharm 
+Page", the icon will be located in the bottom left corner.
+3. **Click** on [Settings...] in the drop-down menu.
+By default, the specific settings page that was last open will reopen. You can click on the various options in the 
 left panel of the menu window to open, expand, or collapse them.
 
 !!! success "Success"
@@ -66,12 +66,12 @@ left panel of the menu window to open, expand, or collapse them.
 These steps will assume that the user has the settings window of PyCharm already open. If you do not, please follow the 
 instructions outlined in "Opening the Settings Menu".
 
-1. Select the search box at the top of the left side of the menu window.
-2. Type in "machine". When you do so, the available options in the left panel of the menu should drastically decrease.
-3. In the options of the left panel select: Editor > General > Code Completion. This will open a new page on the right
-side of the menu window. 
-4. In the "Code Completion" page that we have just opened, look for the section "Machine Learning-Assisted Completion".
-Under that uncheck the checkbox beside "Sort completion suggestions based on machine learning".
+1. **Select** the search bar at the top of the left side of the menu window.
+2. **Type** `Machine`. When you do so, the available options in the left panel of the menu should drastically decrease.
+3. **Select**: [Editor] > [General] > [Code Completion] in the left panel. 
+This will open a new page on the right side of the menu window. 
+4. **Unselect** the checkbox beside "[Sort completion suggestions based on machine learning]" under the "Machine 
+Learning-Assisted Completion" header on the "Code Completion" page that we have just opened.
 
     ??? note "Note - Highlighted Options"
 
@@ -90,12 +90,12 @@ Under that uncheck the checkbox beside "Sort completion suggestions based on mac
 These steps will assume that the user has the settings window of PyCharm already open. If you do not, please follow the
 instructions outlined in "Opening the Settings Menu".
 
-1. Select the search box at the top of the left side of the menu window.
-2. Type in "inline". When you do so, the available options in the left panel of the menu should drastically decrease.
-3. In the options of the left panel select: Editor > General > Inline Completion. This will open a new page on the right
-   side of the menu window.
-4. In the "Inline Completion" page that we have just opened, look for the checkbox beside "Enable local Full Line 
-completion suggestions". Uncheck that box, the rest of the options on this page should become grayed out immediately.
+1. **Select** the search bar at the top of the left side of the menu window.
+2. **Type** in `Inline`. When you do so, the available options in the left panel of the menu should drastically decrease.
+3. **Select** [Editor] > [General] > [Inline Completion] in the left panel. This will open a new page on the right
+side of the menu window.
+4. **Unselect** "Enable local Full Line completion suggestions" on the "Inline Completion" page that we have just 
+opened. The rest of the options on this page should become grayed out immediately.
 
     ??? note "Note - Highlighted Options"
     
@@ -115,7 +115,7 @@ completion suggestions". Uncheck that box, the rest of the options on this page 
 These steps will assume that the user has the settings window of PyCharm already open. If you do not, please follow the
 instructions outlined in "Opening the Settings Menu".
 
-1. In the options of the left panel select: Plugins. This will open a new page on the right side of the menu window.
+1. **Select** [Plugins] from the left panel s. This will open a new page on the right side of the menu window.
 
     ??? note "Note - Difficulty Finding the Plugins Option"
 
@@ -123,27 +123,26 @@ instructions outlined in "Opening the Settings Menu".
         portion of the settings window. The "Plugins" option is located at the highest level and is unable to be
         minimized.
 
-2. In the "Plugins" page that we have just opened, ensure the "Installed" option is selected at the top of the page.
-3. The right panel is split into two different sections. The left side lists all installed plugins and is scrollable, 
-the right side provides details on the selected plugin. Scroll down the plugins list looking for the section labeled
-"Local AI/ML Tools"
-4. Uncheck the boxes beside the following plugins:
-    * Full Line Code Completion
-    * Machine Learning Code Completion
-    * Machine Learning in Search Everywhere
-
-    !!! danger "Danger - Bundled Plugins May Differ"
-
-        The plugins that come preinstalled in PyCharm may be different than the ones mentioned in this guide in the 
-        future. Please ensure you follow your instructor's requirements of which plugins to disable.
-
+2. **Select** [Installed] at the top of the "Plugins" page that we have just opened.
+3. **Type** `Machine Learning` in the [search bar] above the list of plugins.
+4. **Uncheck** the checkboxes beside the following plugins:
+    * [Machine Learning Code Completion]
+    * [Machine Learning in Search Everywhere]
     When a plugin has been disabled it will be grayed out and the checkbox will be empty.
+
+5. **Type** `Full Line` in the [search bar] above the list of plugins.
+6. **Uncheck** the boxes beside the following plugins:
+    * [Full Line Code Completion]
+      When a plugin has been disabled it will be grayed out and the checkbox will be empty.
+
+!!! danger "Danger - Bundled Plugins May Differ"
+
+    The plugins that come preinstalled in PyCharm may be different than the ones mentioned in this guide in the 
+    future. Please ensure you follow your instructor's requirements of which plugins to disable.
 
 !!! success "Success"
 
     The bundled AI & ML plugins have been succuessfully disabled. Continue to the Next Steps section below.
-
-
 
 
 ---
