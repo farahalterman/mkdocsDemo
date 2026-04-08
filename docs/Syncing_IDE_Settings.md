@@ -5,12 +5,15 @@
 In this section you will learn how to enable the syncing of your IDE's settings across JetBrains products. This feature 
 may not be immediately useful to you, however as a CST student, you will end up using several of JetBrains' IDE's in the
 near future. The backup and sync feature allows you to save time when using a new IDE as will not have to reconfigure
-it's settings.
+its settings.
 
 It is assumed that the user already has a JetBrains education account and the PyCharm IDE installed.
 
 It is also assumed that the user has not logged in with a JetBrains account before. If this is not the case, then skip
 to step 8 below.
+
+### Parts of This Guide:
+1. Enabling Backup and Syncing
 
 ---
 
@@ -26,7 +29,7 @@ settings menu.
 
 5. **Focus** the automatically opened browser window.
 
-    note !!! "Browser does not open"
+    !!! note "Browser does not open"
         
         If your browser does not open or you encounter any problems, try to Log in manually by clicking the [Log in 
         manually] button on the small PyCharm popup window.
@@ -45,7 +48,7 @@ If you did not reach the "Authorization Successful" page, please follow this tro
 9. **Select** the checkbox beside [Enable backup and sync], if it is not enabled by default.
 10. **Select** the checkboxes beside the IDE setting that you wish to sync.
 
-    question ??? "What settings should I sync?"
+    ??? question "What settings should I sync?"
 
         We recomend that you enable syncing for UI settings, Keymaps, Code settings, Tools, and System settings. These
         are all features that are convinent to have consistent across IDEs. Plugins are not inculded in this list as
@@ -55,7 +58,7 @@ If you did not reach the "Authorization Successful" page, please follow this tro
 
 11. **Select** the option of your choice in the [Sync settings across:] menu section.
 
-    question ??? "What level of sync should I select?"
+    ??? question "What level of sync should I select?"
 
         We recomend that you select "JetBrains IDE products and Android Studio" as by having consistent settings across
         IDEs will increse your productivity. If in the future you decide that you do not want an IDE's settings synced,

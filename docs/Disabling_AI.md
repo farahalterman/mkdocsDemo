@@ -47,7 +47,7 @@ are accessing almost any part of the application.
 2. **Click** on the [small gear icon] in the top right corner of the application. If you are on the "Welcome to PyCharm 
 Page", the icon will be located in the bottom left corner.
 3. **Click** on [Settings...] in the drop-down menu.
-By default, the specific settings page that was last open will reopen. You can click on the various options in the 
+: By default, the specific settings page that was last open will reopen. You can click on the various options in the 
 left panel of the menu window to open, expand, or collapse them.
 
 !!! success "Success"
@@ -69,7 +69,8 @@ instructions outlined in "Opening the Settings Menu".
 1. **Select** the search bar at the top of the left side of the menu window.
 2. **Type** `Machine`. When you do so, the available options in the left panel of the menu should drastically decrease.
 3. **Select**: [Editor] > [General] > [Code Completion] in the left panel. 
-This will open a new page on the right side of the menu window. 
+: This will open a new page on the right side of the menu window. 
+
 4. **Unselect** the checkbox beside "[Sort completion suggestions based on machine learning]" under the "Machine 
 Learning-Assisted Completion" header on the "Code Completion" page that we have just opened.
 
@@ -92,10 +93,13 @@ instructions outlined in "Opening the Settings Menu".
 
 1. **Select** the search bar at the top of the left side of the menu window.
 2. **Type** in `Inline`. When you do so, the available options in the left panel of the menu should drastically decrease.
-3. **Select** [Editor] > [General] > [Inline Completion] in the left panel. This will open a new page on the right
+3. **Select** [Editor] > [General] > [Inline Completion] in the left panel. 
+: This will open a new page on the right
 side of the menu window.
+
 4. **Unselect** "Enable local Full Line completion suggestions" on the "Inline Completion" page that we have just 
-opened. The rest of the options on this page should become grayed out immediately.
+opened. 
+: The rest of the options on this page should become grayed out immediately.
 
     ??? note "Note - Highlighted Options"
     
