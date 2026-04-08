@@ -34,12 +34,8 @@ settings menu.
 6. **Log in** to the JetBrains page.
 : When successful you should be redirected to an "Authorization Successful" page that informs you that it is possible to
 return to the IDE.
-
-    question ??? "I did not reach the "Authorization Successful" page"
-        
-        Please follow this troubleshooting guide on how to reach this page.
-
-    [//]: # (TODO: create and link TS guide)
+If you did not reach the "Authorization Successful" page, please follow this troubleshooting guide.
+[//]: # (TODO: create and link TS guide)
 
 7. **Focus** the PyCharm window.
 : If you have successfully logged in, the Backup and Sync page will now contain a variety of new options.
