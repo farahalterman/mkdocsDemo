@@ -8,7 +8,10 @@ clone Github repositories, push and pull changes, and work on a codebase collabo
 <!-- TODO: Info Admonition to explain these terms and what version control is. "New to Github and version control?" -->
 ??? question "New to GitHub?"
 
-    **
+    **Clone**:
+    **Push**
+    **Pull**
+
 ---
 
 ## Generating a token
