@@ -6,13 +6,15 @@ In this section, you will learn how to link your Github account to PyCharm. This
 clone Github repositories, push and pull changes, and work on a codebase collaboratively with others.
 
 <!-- TODO: Info Admonition to explain these terms and what version control is. "New to Github and version control?" -->
+??? question "New to GitHub?"
 
+    **
 ---
 
 ## Generating a token
 
 1. **Open** the settings menu 
-:  Refer to [Opening the Settings Menu](Disabling-AI.md#opening-the-settings-menu) for detailed steps to open the settings menu.
+:  Refer to [Opening the Settings Menu](Disabling_AI.md#opening-the-settings-menu) for detailed steps to open the settings menu.
 2. **Type** `version control` into the search bar
 3. **Click** [Version Control]>[GitHub] on the left side menu
 :   ![Settings menu highlighting GitHub](assets/Token_01_Settings.png"Settings menu highlighting GitHub")  

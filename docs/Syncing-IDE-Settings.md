@@ -16,7 +16,7 @@ to step 8 below.
 
 ## Enabling Syncing
 1. **Open** the settings menu
-:  Refer to [Opening the Settings Menu](Disabling-AI.md#opening-the-settings-menu) for detailed steps to open the
+:  Refer to [Opening the Settings Menu](Disabling_AI.md#opening-the-settings-menu) for detailed steps to open the
 settings menu.
 
 2. **Type** `Backup` into the settings menu search bar.
