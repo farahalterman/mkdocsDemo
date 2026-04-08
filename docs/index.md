@@ -12,9 +12,10 @@ in the Downtown Campus, or are enrolled and have not begun classes.
 
 ## Prerequisites
 
-* A laptop that you plan to use for the course (Any operating system is fine) that you have administrator permissions
-on.
-* A Github account.
+* A laptop that you plan to use for the course running macOS or Windows 11 that you have administrator permissions on.
+* Familiarity with using computers and basic computing terms. 
+* A GitHub account.
+* A JetBrains education account.
 * Connection to the internet to search and install software.
 * This guide assumes the user will be following from a new installation of PyCharm. Users who have changed various
 settings since installation are welcome to follow this guide, but may run into conflict with previously made changes.

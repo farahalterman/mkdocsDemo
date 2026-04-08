@@ -15,7 +15,8 @@
     ??? question "How should you name and store your files?"
 
         **Name**: A simple naming convention for classwork could be `className_projectType_projectName`.  
-        **Location:** We recommend keeping your projects together in the PycharmProjects projects folder. This keeps your projects together, minimizing the chance of misplacing where you saved something.  
+        **Location:** We recommend keeping your projects together in the PycharmProjects projects folder. 
+        This keeps your projects together, minimizing the chance of misplacing where you saved something.  
         Ultimately, name and storage conventions are a personal choice, so just stay consistent.
 
 3. (*optional*) **Click** the checkboxes to [Create Git repository] and [Create a welcome script]

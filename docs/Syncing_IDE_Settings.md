@@ -5,7 +5,7 @@
 In this section you will learn how to enable the syncing of your IDE's settings across JetBrains products. This feature 
 may not be immediately useful to you, however as a CST student, you will end up using several of JetBrains' IDE's in the
 near future. The backup and sync feature allows you to save time when using a new IDE as will not have to reconfigure
-it's settings.
+its settings.
 
 It is assumed that the user already has a JetBrains education account and the PyCharm IDE installed.
 
@@ -18,8 +18,8 @@ to step 8 below.
 ---
 
 ## Enabling Backup and Syncing
-1. **Open** the settings menu
-:  Refer to [Opening the Settings Menu](Disabling-AI.md#opening-the-settings-menu) for detailed steps to open the
+1. **Open** the settings menu.
+:  Refer to [Opening the Settings Menu](Disabling_AI.md#opening-the-settings-menu) for detailed steps to open the
 settings menu.
 
 2. **Type** `Backup` into the settings menu search bar.
