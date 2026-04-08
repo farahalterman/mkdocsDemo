@@ -26,7 +26,7 @@ settings menu.
 
 5. **Focus** the automatically opened browser window.
 
-    note !!! Browser does not open
+    note !!! "Browser does not open"
         
         If your browser does not open or you encounter any problems, try to Log in manually by clicking the [Log in 
         manually] button on the small PyCharm popup window.
@@ -35,7 +35,7 @@ settings menu.
 : When successful you should be redirected to an "Authorization Successful" page that informs you that it is possible to
 return to the IDE.
 
-    question ??? I did not reach the "Authorization Successful" page
+    question ??? "I did not reach the "Authorization Successful" page"
         
         Please follow this troubleshooting guide on how to reach this page.
 
@@ -49,7 +49,7 @@ return to the IDE.
 9. **Select** the checkbox beside [Enable backup and sync], if it is not enabled by default.
 10. **Select** the checkboxes beside the IDE setting that you wish to sync.
 
-    question ??? What settings should I sync?
+    question ??? "What settings should I sync?"
 
         We recomend that you enable syncing for UI settings, Keymaps, Code settings, Tools, and System settings. These
         are all features that are convinent to have consistent across IDEs. Plugins are not inculded in this list as
@@ -59,7 +59,7 @@ return to the IDE.
 
 11. **Select** the option of your choice in the [Sync settings across:] menu section.
 
-    question ??? What level of sync should I select?
+    question ??? "What level of sync should I select?"
 
         We recomend that you select "JetBrains IDE products and Android Studio" as by having consistent settings across
         IDEs will increse your productivity. If in the future you decide that you do not want an IDE's settings synced,
