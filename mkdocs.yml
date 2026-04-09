@@ -26,8 +26,8 @@ nav:
   - Linking a Github Account: Linking_Github.md
   - Syncing Settings Across JetBrains IDEs: Syncing_IDE_Settings.md
   - Creating a New PyCharm Project: Create_Project.md
-  - Glossary: Glossary.md
-  - Troubleshooting: Troubleshooting.md
+  - Glossary: glossary.md
+  - Troubleshooting: troubleshooting.md
   
 markdown_extensions:
   - pymdownx.inlinehilite
