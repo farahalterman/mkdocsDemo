@@ -105,7 +105,6 @@ opened.
     AI Inline Completion has been succuessfully disabled. Continue with the "Disabling Bundled AI and Machine Learning 
     Plugins" section.
 
-
 ---
 
 ## Disabling Bundled AI and Machine Learning Plugins
