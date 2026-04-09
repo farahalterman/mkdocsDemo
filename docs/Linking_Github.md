@@ -8,9 +8,15 @@ clone Github repositories, push and pull changes, and work on a codebase collabo
 <!-- TODO: Info Admonition to explain these terms and what version control is. "New to Github and version control?" -->
 ??? question "New to GitHub?"
 
-    **Clone**:
-    **Push**
-    **Pull**
+    Github is a version control platform. Version control allows you to take a snapshot of your project, so that you have a record
+    of what your project has looked like every step of the way. This also allows you to return to the previous version of a project.  
+
+    Commonly used terms include the following:  
+
+    **Repository**: A place to store files and code  
+    **Clone**: Creates a local copy of a Github repository  
+    **Push**: Updates Github repository to match the local copy  
+    **Pull**: Updates local copy to match the Github repository
 
 ---
 
@@ -56,5 +62,4 @@ clone Github repositories, push and pull changes, and work on a codebase collabo
 
 ## Next Steps
 
-If you followed all the previous steps in order, you will have successfully linked your GitHub to Pycharm, and are ready to move on to INSERT SECTION NAME HERE. If you were unable to locate any of the
-options, please follow this troubleshooting guide.
+If you followed all the previous steps in order, you will have successfully linked your GitHub to Pycharm, and are ready to move on to INSERT SECTION NAME HERE. If you were unable to locate any of the options, please follow this troubleshooting guide.
