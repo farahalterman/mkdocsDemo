@@ -2,7 +2,7 @@
 - Unable to login to JetBrains account
 - Can't find ai plugins
 - 
-Must include minimum of 5 things that could go wrong & their solutions
+Must include minimum of 5 things that could go wrong & their solutions 
 
 | Symptom                                                                      | Possible Cause                                                            |              Solution |
 |:-----------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------:|
