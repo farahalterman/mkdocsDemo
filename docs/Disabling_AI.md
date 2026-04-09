@@ -21,12 +21,6 @@ This guide provides step-by-step instructions on what specific setting are neede
 3. Disabling AI Inline Completion,
 4. Disabling Bundled AI and Machine Learning Plugins
 
-??? note "Note - Possible Visual Differences"
-
-    The images in this guide were taken on a computer running macOS. If your version is different or you are on another
-    OS, some minor — system determined — UI elements may look different. These minor 
-    differences will not affect the actual tasks that these instructions guide you through.
-
 !!! warning "Warning - Steps Must be Followed in Order"
 
     If these steps and sections are not followed in the specified order, the options offered in the menus may change. 
@@ -44,11 +38,15 @@ There are multiple ways to access the settings menu in PyCharm, however this met
 are accessing almost any part of the application.
 
 1. **Focus** the PyCharm window.
-2. **Click** on the [small gear icon] in the top right corner of the application. If you are on the "Welcome to PyCharm 
-Page", the icon will be located in the bottom left corner.
+2. **Click** on the [small gear] icon in the top right corner of the application. 
+: ![Settings icon in the top right](assets/disabling_ai_assets/topR_settings.png "The \"Welcome to PyCharm\" page annotated to highlight the settings icon in the top right of the window")
+: If you are on the "Welcome to PyCharm Page", the icon may be located in the bottom left corner depending on your theme style.
+: ![Settings icon in the bottom left](assets/disabling_ai_assets/bottomL_settings.png "The \"Welcome to PyCharm\" page annotated to highlight the settings icon in the bottom left of the window")
+
 3. **Click** on [Settings...] in the drop-down menu.
-: By default, the specific settings page that was last open will reopen. You can click on the various options in the 
-left panel of the menu window to open, expand, or collapse them.
+: ![The Settings... option in the dropdown menu](assets/disabling_ai_assets/topR_settings_dropdown.png "The \"Settings...\" menu option highlighted")
+: By default, the specific settings page that was last open will reopen. You can click on the various options in the left panel of the menu window to open, expand, or collapse them.
+: ![The PyCharm settings window](assets/disabling_ai_assets/settings_home.png "The PyCharm settings window")
 
 !!! success "Success"
 
@@ -56,23 +54,24 @@ left panel of the menu window to open, expand, or collapse them.
 
 ??? note "Note - Settings Menu Shortcut"
 
-    The default keyboard shortcut to open the settings menu on Windows is: `Ctrl + Alt + s`.
+    The default keyboard shortcut to open the settings menu on Windows is: `Ctrl + Alt + s`. <br>
     On macOS it is: `Cmd + ,`.
 
 ---
 
 ## Disabling AI Code Completion
 
-These steps will assume that the user has the settings window of PyCharm already open. If you do not, please follow the 
-instructions outlined in "Opening the Settings Menu".
+These steps will assume that the user has the settings window of PyCharm already open. If you do not, please follow the instructions outlined in "Opening the Settings Menu".
 
 1. **Select** the search bar at the top of the left side of the menu window.
 2. **Type** `Machine`. When you do so, the available options in the left panel of the menu should drastically decrease.
 3. **Select**: [Editor] > [General] > [Code Completion] in the left panel. 
+: ![Code Completion menu annotated](assets/disabling_ai_assets/machine_undisabled.png "Machine searched in the setting search bar with annotations")
 : This will open a new page on the right side of the menu window. 
 
-4. **Unselect** the checkbox beside "[Sort completion suggestions based on machine learning]" under the "Machine 
-Learning-Assisted Completion" header on the "Code Completion" page that we have just opened.
+4. **Unselect** the checkbox beside "[Sort completion suggestions based on machine learning]" under the "Machine Learning-Assisted Completion" header on the "Code Completion" page that we have just opened.
+: ![Sort completion suggestions based on machine learning checkbox annotated](assets/disabling_ai_assets/machine_disabled.png "Sort completion suggestions based on machine learning checkbox annotated")
+: The rest of the options on this page should become grayed out immediately.
 
     ??? note "Note - Highlighted Options"
 
@@ -88,17 +87,17 @@ Learning-Assisted Completion" header on the "Code Completion" page that we have 
 
 ## Disabling AI Inline Completion
 
-These steps will assume that the user has the settings window of PyCharm already open. If you do not, please follow the
-instructions outlined in "Opening the Settings Menu".
+These steps will assume that the user has the settings window of PyCharm already open. If you do not, please follow the instructions outlined in "Opening the Settings Menu".
 
 1. **Select** the search bar at the top of the left side of the menu window.
 2. **Type** in `Inline`. When you do so, the available options in the left panel of the menu should drastically decrease.
 3. **Select** [Editor] > [General] > [Inline Completion] in the left panel. 
-: This will open a new page on the right
-side of the menu window.
+: ![Code Completion menu annotated](assets/disabling_ai_assets/inline_undisabled.png "Inline searched in the setting search bar with annotations")
+: This will open a new page on the right side of the menu window.
 
 4. **Unselect** "Enable local Full Line completion suggestions" on the "Inline Completion" page that we have just 
 opened. 
+: ![Full Line completion suggestions checkbox annotated](assets/disabling_ai_assets/inline_disabled.png "Full Line completion suggestions checkbox annotated")
 : The rest of the options on this page should become grayed out immediately.
 
     ??? note "Note - Highlighted Options"
@@ -128,16 +127,20 @@ instructions outlined in "Opening the Settings Menu".
         minimized.
 
 2. **Select** [Installed] at the top of the "Plugins" page that we have just opened.
-3. **Type** `Machine Learning` in the [search bar] above the list of plugins.
+: ![The installed plugins page](assets/disabling_ai_assets/plugins_home.png "The installed plugins page")
+
+3. **Type** `Machine` in the [search bar] above the list of plugins.
 4. **Uncheck** the checkboxes beside the following plugins:
     * [Machine Learning Code Completion]
     * [Machine Learning in Search Everywhere]
-    When a plugin has been disabled it will be grayed out and the checkbox will be empty.
+: ![Machine Learning plugins annotated](assets/disabling_ai_assets/plugins_machine.png "Machine Learning plugins annotated")
+: When a plugin has been disabled it will be grayed out and the checkbox will be empty.
 
-5. **Type** `Full Line` in the [search bar] above the list of plugins.
+5. **Type** `Full` in the [search bar] above the list of plugins.
 6. **Uncheck** the boxes beside the following plugins:
     * [Full Line Code Completion]
-      When a plugin has been disabled it will be grayed out and the checkbox will be empty.
+: ![Full line completion plugins annotated](assets/disabling_ai_assets/plugins_full_line.png "Full line completion plugins annotated")
+: When a plugin has been disabled it will be grayed out and the checkbox will be empty.
 
 !!! danger "Danger - Bundled Plugins May Differ"
 
@@ -146,15 +149,15 @@ instructions outlined in "Opening the Settings Menu".
 
 !!! success "Success"
 
-    The bundled AI & ML plugins have been succuessfully disabled. Continue to the Next Steps section below.
+    The bundled AI & ML plugins have been succuessfully disabled. Continue to the Conclusion section below.
 
 
 ---
 
-## Next Steps
+## Conclusion
 
 If you followed all the previous steps in order, you will have successfully disabled the AI tools that are required to
-be disabled for COMP 1510, and are ready to move on to INSERT SECTION NAME HERE. If you were unable to locate any of the
+be disabled for COMP 1510, and are ready to move on to Linking a GitHub Account. If you were unable to locate any of the
 options, please follow this troubleshooting guide.
 
 [//]: # (TODO: add section name above +link and troubleshooting guide about reenableing plugins then disabilng in order)
