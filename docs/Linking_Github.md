@@ -5,7 +5,6 @@
 In this section, you will learn how to link your Github account to PyCharm. This will allow you to
 clone Github repositories, push and pull changes, and work on a codebase collaboratively with others.
 
-<!-- TODO: Info Admonition to explain these terms and what version control is. "New to Github and version control?" -->
 ??? question "New to GitHub?"
 
     Github is a version control platform. Version control allows you to take a snapshot of your project, so that you have a record

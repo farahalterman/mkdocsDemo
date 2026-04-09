@@ -2,8 +2,9 @@
 
 ## Introduction
 
-This guide is to assist BCIT students enrolled in the Computer Systems Technology (CST) Diploma at the Downtown campus 
-(DTC) with setting up the JetBrains IDE, PyCharm, in preparation for the COMP 1510 course "Programming Methods".
+This guide is to assist British Columbia Institute of Technology (BCIT) students enrolled in the Computer Systems 
+Technology (CST) Diploma at the Downtown campus (DTC) with setting up the JetBrains IDE, PyCharm, in preparation for the
+COMP 1510 course "Programming Methods".
 
 ??? note "Note - Possible Visual Differences"
 
@@ -53,7 +54,7 @@ danger
     Explains a concept or provides missing information
 
 !!! success
-    Displayed after a succesful activity
+    Displayed after a successful activity
 
 !!! warning
     Point of caution
