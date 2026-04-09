@@ -1,6 +1,7 @@
 # Creating a New PyCharm Project
 
 ## Overview
+In this section, you will learn how to create a new PyCharm project. You'll also learn best practices on how to set up your projects through naming conventions and creating a Git repository.
 
 ---
 
@@ -36,3 +37,4 @@
 ---
 
 ## Conclusion
+If you followed all the previous steps in order, you should now have a new project in PyCharm with a virtual environment. If not, please refer to the [Troubleshooting](troubleshooting.md) section for help.
