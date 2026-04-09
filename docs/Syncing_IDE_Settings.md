@@ -25,6 +25,7 @@ settings menu.
 2. **Type** `Backup` into the settings menu search bar.
 3. **Select** [Backup and Sync] from the left panel.
 4. **Select** [Log in with JetBrains Account...] from the Backup and Sync page on the right.
+: ![Backup and Sync settings page](assets/syncing_ide_settings/backup_search.png "Backup and Sync settings page")
 : This will open a JetBrains login website in your default browser.
 
 5. **Focus** the automatically opened browser window.
@@ -35,18 +36,21 @@ settings menu.
         manually] button on the small PyCharm popup window.
 
 6. **Log in** to the JetBrains page.
-: When successful you should be redirected to an "Authorization Successful" page that informs you that it is possible to
-return to the IDE.
-If you did not reach the "Authorization Successful" page, please follow this troubleshooting guide.
-[//]: # (TODO: create and link TS guide)
+
+: When successful you should be redirected to an "Authorization Successful" page that informs you that it is possible to return to the IDE. If you did not reach the "Authorization Successful" page, please follow this troubleshooting guide.
+
+    [//]: # (TODO: create and link TS guide)
 
 7. **Focus** the PyCharm window.
 : If you have successfully logged in, the Backup and Sync page will now contain a variety of new options.
 
-8. **Select** the email that you have just used to log in, or wish to sync your IDE settings with from the 
-[dropdown menu] at the top of the page. 
+8. **Select** the email that you have just used to log in, or wish to sync your IDE settings with from the [dropdown menu] at the top of the page.
+
 9. **Select** the checkbox beside [Enable backup and sync], if it is not enabled by default.
+: ![Email dropdown and enable checkbox on the Backup and Sync settings page](assets/syncing_ide_settings/email_dropdown.png "Email dropdown and enable checkbox on the Backup and Sync settings page")
+
 10. **Select** the checkboxes beside the IDE setting that you wish to sync.
+: ![Options of what to sync](assets/syncing_ide_settings/sync_settings.png "Options of what to sync")
 
     ??? question "What settings should I sync?"
 
@@ -57,6 +61,7 @@ If you did not reach the "Authorization Successful" page, please follow this tro
         IDE's.
 
 11. **Select** the option of your choice in the [Sync settings across:] menu section.
+: ![Options of scope of sync](assets/syncing_ide_settings/sync_platforms.png "Options of scope of sync")
 
     ??? question "What level of sync should I select?"
 
@@ -71,4 +76,4 @@ If you did not reach the "Authorization Successful" page, please follow this tro
 ## Conclusion
 
 If you followed all the previous steps in order, you will have successfully enabled the syncing of your settings across
-all JetBrains IDEs and are ready to move on to INSERT SECTION NAME HERE.
+all JetBrains IDEs and are ready to move on to Creating a New PyCharm Project.
