@@ -17,8 +17,8 @@ to step 8 below.
 
 ---
 
-## Enabling Backup and Syncing
-1. **Open** the settings menu.
+## Enabling Syncing
+1. **Open** the settings menu
 :  Refer to [Opening the Settings Menu](Disabling_AI.md#opening-the-settings-menu) for detailed steps to open the
 settings menu.
 
