@@ -1,7 +1,5 @@
 # Disabling AI
 
-[//]: # (TODO: Link first occurances of the word to the glossary)
-
 ## Overview
 AI can be a powerful tool for programmers, and is often preinstalled and enabled by default in applications.
 A fresh installation of PyCharm comes with some of these basic tools and features already enabled. 
@@ -25,10 +23,7 @@ This guide provides step-by-step instructions on what specific setting are neede
 
     If these steps and sections are not followed in the specified order, the options offered in the menus may change. 
     This may lead to impropperly disabled settings. This issue could also occur if any of these setting are not in their
-    default state before beginning this guide. If you are unable to access a setting, please follow this guide in the 
-    Troubleshooting section. LINK IT
-    
-[//]: # (TODO: link to troubleshooting)
+    default state before beginning this guide. If you are unable to access a setting, please follow [the troubleshooting guide](troubleshooting.md).
 
 ---
 
@@ -147,17 +142,10 @@ instructions outlined in "Opening the Settings Menu".
     The plugins that come preinstalled in PyCharm may be different than the ones mentioned in this guide in the 
     future. Please ensure you follow your instructor's requirements of which plugins to disable.
 
-!!! success "Success"
-
-    The bundled AI & ML plugins have been succuessfully disabled. Continue to the Conclusion section below.
-
-
 ---
 
 ## Conclusion
 
 If you followed all the previous steps in order, you will have successfully disabled the AI tools that are required to
 be disabled for COMP 1510, and are ready to move on to Linking a GitHub Account. If you were unable to locate any of the
-options, please follow this troubleshooting guide.
-
-[//]: # (TODO: add section name above +link and troubleshooting guide about reenableing plugins then disabilng in order)
+options, please follow the [troubleshooting guide](troubleshooting.md).
