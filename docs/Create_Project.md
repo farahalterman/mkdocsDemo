@@ -1,4 +1,4 @@
-# Create a New PyCharm Project
+# Creating a New PyCharm Project
 
 ## Overview
 
