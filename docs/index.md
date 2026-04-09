@@ -26,11 +26,37 @@ in the Downtown Campus, or are enrolled and have not begun classes.
 * This guide assumes the user will be following from a new installation of PyCharm. Users who have changed various
 settings since installation may run into conflict with previously made changes.
 
-## Project layout
+## Typographical Conventions
+| Action      | Example                              |
+| ----------- | ------------------------------------ |
+| Action Verb | **Click**, **Type**, **Search**        |
+| Optional    | (*Optional*)                         |
+| Button      | [Settings…], [VCS], [Run]            |
+| Button Sequence    | [File] > [Settings]           |
+| Shortcuts      | `Ctrl + Alt + s`        |
+| Text to type      | `Example text`           |
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
 
 ## Notes, Warnings, and Admonitions
+note
+question
+success
+In conclusion of each task
+warning
+danger
+
+!!! note
+    Provides additional information
+
+!!! question
+    Explains a concept or provides missing information
+
+!!! success
+    Displayed after a succesful activity
+
+!!! warning
+    Point of caution
+
+!!! danger
+    Important warning

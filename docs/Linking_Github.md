@@ -60,6 +60,6 @@ clone Github repositories, push and pull changes, and work on a codebase collabo
 
 ---
 
-## Next Steps
+## Conclusion
 
-If you followed all the previous steps in order, you will have successfully linked your GitHub to Pycharm, and are ready to move on to INSERT SECTION NAME HERE. If you were unable to locate any of the options, please follow this troubleshooting guide.
+If you followed all the previous steps in order, you will have successfully linked your GitHub to Pycharm, and are ready to move on to [Syncing Settings Across JetBrains IDEs](Syncing_IDE_Settings.md). If you were unable to locate any of the options, please refer to the [Troubleshooting](troubleshooting.md) section for help.
