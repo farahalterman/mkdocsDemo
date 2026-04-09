@@ -24,15 +24,15 @@ clone Github repositories, push and pull changes, and work on a codebase collabo
 1. **Open** the settings menu 
 :  Refer to [Opening the Settings Menu](Disabling_AI.md#opening-the-settings-menu) for detailed steps to open the settings menu.
 2. **Type** `version control` into the search bar
-3. **Click** [Version Control]>[GitHub] on the left side menu
+3. **Click** [Version Control] > [GitHub] on the left side menu
 :   ![Settings menu highlighting GitHub](assets/Token_01_Settings.png"Settings menu highlighting GitHub")  
 4. **Click** [+] in the top left corner of the menu
 :  ![Settings menu highlighting GitHub](assets/Token_02_Settings.png"Settings menu highlighting GitHub")  
    After clicking [+], a selection box will popup.
 5. **Click** [Log In with Token]
 :  ![Add GitHub Account pop up menu](assets/Token_03_Settings.png"Add GitHub Account pop up menu")  
-   This will cause the popup window [Add GitHub Account] to appear.
-6. **Click** "Generate"
+   This will cause the popup window "Add GitHub Account" to appear.
+6. **Click** [Generate]
 :  ![GitHub's Confirm Access webpage](assets/Token_04_Github_Access.png"GitHub's Confirm Access webpage")  
    This will open a Github on your preferred browser.
 7. **Confirm** access to Github by entering your password

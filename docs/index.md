@@ -1,12 +1,12 @@
 # Home
 
-## Introduction
+## Overview
 
 This guide is to assist British Columbia Institute of Technology (BCIT) students enrolled in the Computer Systems 
 Technology (CST) Diploma at the Downtown campus (DTC) with setting up the JetBrains IDE, PyCharm, in preparation for the
 COMP 1510 course "Programming Methods".
 
-??? note "Note - Possible Visual Differences"
+!!! note "Note - Possible Visual Differences"
 
     The images used in this documentation were taken on both macOS and Windows. If your OS version is different or you 
     are on another OS, some minor — system determined — UI elements may look different. These minor differences will not
@@ -17,47 +17,57 @@ COMP 1510 course "Programming Methods".
 The intended users of this guide are people who are planning to take the COMP 1510 course "Programming Methods" at BCIT
 in the Downtown Campus, or are enrolled and have not begun classes. 
 
+[//]: # (TODO: Says the same thing as above. change top to explain softwares intended use)
+
 ## Prerequisites
 
-* A laptop that you plan to use for the course running macOS or Windows 11 that you have administrator permissions on.
+* A laptop that you plan to use for the course running macOS or Windows that you have administrator permissions on.
 * Familiarity with using computers and basic computing terms. 
 * A GitHub account.
 * A JetBrains education account.
 * Connection to the internet to search and install software.
-* This guide assumes the user will be following from a new installation of PyCharm. Users who have changed various
-settings since installation may run into conflict with previously made changes.
+* This guide assumes the user will be following from a new installation of PyCharm. 
+   
+    !!! note "Note - Changed settings"
+      
+        Users who have changed various settings since installation may run into conflict with previously made changes.
+
+[//]: # (TODO: add links to sites)
 
 ## Typographical Conventions
-| Action      | Example                              |
-| ----------- | ------------------------------------ |
-| Action Verb | **Click**, **Type**, **Search**        |
-| Optional    | (*Optional*)                         |
-| Button      | [Settings…], [VCS], [Run]            |
-| Button Sequence    | [File] > [Settings]           |
-| Shortcuts      | `Ctrl + Alt + s`        |
-| Text to type      | `Example text`           |
 
+[//]: # (TODO: add explanation of what this is)
+
+| Action          | Example                         |
+|-----------------|---------------------------------|
+| Action Verb     | **Click**, **Type**, **Search** |
+| Optional        | (*Optional*)                    |
+| Button          | [Settings…], [VCS], [Run]       |
+| Button Sequence | [File] > [Settings]             |
+| Shortcuts       | `Ctrl + Alt + s`                |
+| Text to type    | `Example text`                  |
+
+[//]: # (TODO: add text in "" to ^^^)
 
 
 ## Notes, Warnings, and Admonitions
-note
-question
-success
-In conclusion of each task
-warning
-danger
 
 !!! note
-    Provides additional information
+
+    Provides additional information.
 
 !!! question
-    Explains a concept or provides missing information
+
+    Explains a concept or provides missing information.
 
 !!! success
-    Displayed after a successful activity
+
+    Displayed after a successful activity.
 
 !!! warning
-    Point of caution
+
+    Point of caution.
 
 !!! danger
-    Important warning
+
+    Important warning.

@@ -22,11 +22,9 @@ In this section, you will learn how to create a new PyCharm project. You'll also
         Ultimately, name and storage conventions are a personal choice, so just stay consistent.
 
 3. (*optional*) **Click** the checkboxes to [Create Git repository] and [Create a welcome script]
-:   It is good to get in the habit of creating a Git repository since you will be using Git for all COMP1510 assignments. The welcome script contains helpful information
+:   It is good to get in the habit of creating a Git repository since you will be using Git for all COMP 1510 assignments. The welcome script contains helpful information
 
 4. **Select** [Project venv] as your interpreter type (this is selected by default)
-
-    [//]: # (TODO: Add explanation of venv. This is a virtual environment. **What does it do?**)
 
 5. **Select** your desired version of Python
 
@@ -35,6 +33,7 @@ In this section, you will learn how to create a new PyCharm project. You'll also
         For this demo, version 3.10 or later is acceptable. We recommend choosing the latest version of Python you have installed.
 
 6. **Click** [Create]
+
 :   ![A new PyCharm project with Git repository and a welcome script named main.py](assets/CreateProject_03_Project_Window.png"A new PyCharm project with Git repository and a welcome script named main.py")
     This will create and open your new PyCharm project in this window. Your project may take up to a couple minutes to finish setup, depending on your computer.
 

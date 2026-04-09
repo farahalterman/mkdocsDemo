@@ -18,7 +18,7 @@ to step 8 below.
 ---
 
 ## Enabling Syncing
-1. **Open** the settings menu
+1. **Open** the settings menu.
 :  Refer to [Opening the Settings Menu](Disabling_AI.md#opening-the-settings-menu) for detailed steps to open the
 settings menu.
 
@@ -41,30 +41,30 @@ settings menu.
 7. **Focus** the PyCharm window.
 : If you have successfully logged in, the Backup and Sync page will now contain a variety of new options.
 
-8. **Select** the email that you have just used to log in, or wish to sync your IDE settings with from the [dropdown menu] at the top of the page.
+8. **Select** the email that you logged in with from the [dropdown menu] at the top of the page.
 
 9. **Select** the checkbox beside [Enable backup and sync], if it is not enabled by default.
 : ![Email dropdown and enable checkbox on the Backup and Sync settings page](assets/syncing_ide_settings/email_dropdown.png "Email dropdown and enable checkbox on the Backup and Sync settings page")
 
-10. **Select** the checkboxes beside the IDE setting that you wish to sync.
+10. **Check** the checkboxes beside the IDE setting that you wish to sync.
 : ![Options of what to sync](assets/syncing_ide_settings/sync_settings.png "Options of what to sync")
 
     ??? question "What settings should I sync?"
 
-        We recomend that you enable syncing for UI settings, Keymaps, Code settings, Tools, and System settings. These
-        are all features that are convinent to have consistent across IDEs. Plugins are not inculded in this list as
+        We recommend that you enable syncing for UI settings, Keymaps, Code settings, Tools, and System settings. These
+        are all features that are convenient to have consistent across IDEs. Plugins are not included in this list as
         they often change based on the IDE and language you are using. It is possible to change the syncing setting for
-        each plugin individually, we recomend that you enable syncing for plugins that you plan to use in all JetBrains
+        each plugin individually, we recommend that you enable syncing for plugins that you plan to use in all JetBrains
         IDE's.
 
-11. **Select** the option of your choice in the [Sync settings across:] menu section.
+11. **Select** the option of your choice in the "Sync settings across:" menu section.
 : ![Options of scope of sync](assets/syncing_ide_settings/sync_platforms.png "Options of scope of sync")
 
     ??? question "What level of sync should I select?"
 
-        We recomend that you select "JetBrains IDE products and Android Studio" as by having consistent settings across
-        IDEs will increse your productivity. If in the future you decide that you do not want an IDE's settings synced,
-        you can easially change the scope of the settings sync or disable it entirely for that IDE.
+        We recommend that you select "JetBrains IDE products and Android Studio" as by having consistent settings across
+        IDEs will increase your productivity. If in the future you decide that you do not want an IDE's settings synced,
+        you can easily change the scope of the settings sync or disable it entirely for that IDE.
 
 12. **Select** [Apply] when you are happy with your options.
 13. **Select** [OK] to close the settings menu.

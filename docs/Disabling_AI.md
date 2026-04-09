@@ -4,7 +4,7 @@
 AI can be a powerful tool for programmers, and is often preinstalled and enabled by default in applications.
 A fresh installation of PyCharm comes with some of these basic tools and features already enabled. 
 A requirement for the COMP 1510 course at DTC, is for all AI coding assistance tools to be disabled in PyCharm.
-This guide provides step-by-step instructions on what specific setting are needed to be disabled.
+This guide provides step-by-step instructions on what specific settings need to be disabled.
 
 !!! danger "Danger - Course Requirements May Differ"
 
@@ -13,17 +13,11 @@ This guide provides step-by-step instructions on what specific setting are neede
     It is the reader's responsibility to ensure that their IDE's AI setting follow the specific requirements set by the
     instructor over following this guide.
 
-### Parts of This Guide:
-1. Opening the Settings Menu,
-2. Disabling AI Code Completion,
-3. Disabling AI Inline Completion,
-4. Disabling Bundled AI and Machine Learning Plugins
-
 !!! warning "Warning - Steps Must be Followed in Order"
 
     If these steps and sections are not followed in the specified order, the options offered in the menus may change. 
-    This may lead to impropperly disabled settings. This issue could also occur if any of these setting are not in their
-    default state before beginning this guide. If you are unable to access a setting, please follow [the troubleshooting guide](troubleshooting.md).
+    This may lead to impropperly disabled settings. This issue could also occur if any of these settings are not in 
+    their default state before beginning this guide. If you are unable to access a setting, please follow [the troubleshooting guide](troubleshooting.md).
 
 ---
 
@@ -59,12 +53,12 @@ are accessing almost any part of the application.
 These steps will assume that the user has the settings window of PyCharm already open. If you do not, please follow the instructions outlined in "Opening the Settings Menu".
 
 1. **Select** the search bar at the top of the left side of the menu window.
-2. **Type** `Machine`. When you do so, the available options in the left panel of the menu should drastically decrease.
+2. **Type** `Machine`. When you do so, the available options in the left panel of the menu should decrease.
 3. **Select**: [Editor] > [General] > [Code Completion] in the left panel. 
 : ![Code Completion menu annotated](assets/disabling_ai_assets/machine_undisabled.png "Machine searched in the setting search bar with annotations")
 : This will open a new page on the right side of the menu window. 
 
-4. **Unselect** the checkbox beside "[Sort completion suggestions based on machine learning]" under the "Machine Learning-Assisted Completion" header on the "Code Completion" page that we have just opened.
+4. **Uncheck** the checkbox beside [Sort completion suggestions based on machine learning] under the "Machine Learning-Assisted Completion" header on the "Code Completion" page that we have just opened.
 : ![Sort completion suggestions based on machine learning checkbox annotated](assets/disabling_ai_assets/machine_disabled.png "Sort completion suggestions based on machine learning checkbox annotated")
 : The rest of the options on this page should become grayed out immediately.
 
@@ -90,8 +84,7 @@ These steps will assume that the user has the settings window of PyCharm already
 : ![Code Completion menu annotated](assets/disabling_ai_assets/inline_undisabled.png "Inline searched in the setting search bar with annotations")
 : This will open a new page on the right side of the menu window.
 
-4. **Unselect** "Enable local Full Line completion suggestions" on the "Inline Completion" page that we have just 
-opened. 
+4. **Uncheck** "Enable local Full Line completion suggestions" on the "Inline Completion" page that we have just opened. 
 : ![Full Line completion suggestions checkbox annotated](assets/disabling_ai_assets/inline_disabled.png "Full Line completion suggestions checkbox annotated")
 : The rest of the options on this page should become grayed out immediately.
 
@@ -112,13 +105,12 @@ opened.
 These steps will assume that the user has the settings window of PyCharm already open. If you do not, please follow the
 instructions outlined in "Opening the Settings Menu".
 
-1. **Select** [Plugins] from the left panel s. This will open a new page on the right side of the menu window.
+1. **Select** [Plugins] from the left panel. This will open a new page on the right side of the menu window.
 
     ??? note "Note - Difficulty Finding the Plugins Option"
 
         If you are having difficulty locating the plugins option, minimize the dropdown menus located in the left 
-        portion of the settings window. The "Plugins" option is located at the highest level and is unable to be
-        minimized.
+        portion of the settings window. The "Plugins" option is visible when all sections are minimized.
 
 2. **Select** [Installed] at the top of the "Plugins" page that we have just opened.
 : ![The installed plugins page](assets/disabling_ai_assets/plugins_home.png "The installed plugins page")
@@ -127,12 +119,14 @@ instructions outlined in "Opening the Settings Menu".
 4. **Uncheck** the checkboxes beside the following plugins:
     * [Machine Learning Code Completion]
     * [Machine Learning in Search Everywhere]
+
 : ![Machine Learning plugins annotated](assets/disabling_ai_assets/plugins_machine.png "Machine Learning plugins annotated")
 : When a plugin has been disabled it will be grayed out and the checkbox will be empty.
 
 5. **Type** `Full` in the [search bar] above the list of plugins.
 6. **Uncheck** the boxes beside the following plugins:
     * [Full Line Code Completion]
+
 : ![Full line completion plugins annotated](assets/disabling_ai_assets/plugins_full_line.png "Full line completion plugins annotated")
 : When a plugin has been disabled it will be grayed out and the checkbox will be empty.
 
