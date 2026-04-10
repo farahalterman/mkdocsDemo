@@ -27,11 +27,8 @@ In this section, you will learn how to create a new PyCharm project. You'll also
 4. **Select** [Project venv] as your interpreter type (this is selected by default)
 
 5. **Select** your desired version of Python
-
-:  !!! note
-
+:   !!! note  "Note - Choosing your version of Python"
         For this demo, version 3.10 or later is acceptable. We recommend choosing the latest version of Python you have installed.
-
 6. **Click** [Create]
 
 :   ![A new PyCharm project with Git repository and a welcome script named main.py](assets/CreateProject_03_Project_Window.png"A new PyCharm project with Git repository and a welcome script named main.py")
