@@ -41,11 +41,12 @@ in the Downtown Campus, or are enrolled and have not begun classes.
 | Action          | Example                         |
 |-----------------|---------------------------------|
 | Action Verb     | **Click**, **Type**, **Search** |
-| Optional        | (*Optional*)                    |
 | Button          | [Settings…], [VCS], [Run]       |
 | Button Sequence | [File] > [Settings]             |
+| Optional        | (*Optional*)                    |
 | Shortcuts       | `Ctrl + Alt + s`                |
 | Text to type    | `Example text`                  |
+| Title           | "Window Name"                   |
 
 [//]: # (TODO: add text in "" to ^^^)
 
