@@ -23,8 +23,8 @@ in the Downtown Campus, or are enrolled and have not begun classes.
 
 * A laptop that you plan to use for the course running macOS or Windows that you have administrator permissions on.
 * Familiarity with using computers and basic computing terms. 
-* A GitHub account.
-* A JetBrains education account.
+* A [GitHub account](https://github.com/).
+* A [JetBrains education account](https://www.jetbrains.com/academy/student-pack/).
 * Connection to the internet to search and install software.
 * This guide assumes the user will be following from a new installation of PyCharm. 
    
@@ -32,7 +32,6 @@ in the Downtown Campus, or are enrolled and have not begun classes.
       
         Users who have changed various settings since installation may run into conflict with previously made changes.
 
-[//]: # (TODO: add links to sites)
 
 ## Typographical Conventions
 
@@ -47,8 +46,6 @@ in the Downtown Campus, or are enrolled and have not begun classes.
 | Shortcuts       | `Ctrl + Alt + s`                |
 | Text to type    | `Example text`                  |
 | Title           | "Window Name"                   |
-
-[//]: # (TODO: add text in "" to ^^^)
 
 
 ## Notes, Warnings, and Admonitions
