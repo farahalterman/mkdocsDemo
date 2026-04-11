@@ -1,21 +1,21 @@
-# Linking a Github Account
+# Linking a GitHub Account
 
 ## Overview
 
-In this section, you will learn how to link your Github account to PyCharm. This will allow you to
-clone Github repositories, push and pull changes, and work on a codebase collaboratively with others.
+In this section, you will learn how to link your GitHub account to PyCharm. This will allow you to
+clone GitHub repositories, push and pull changes, and work on a codebase collaboratively with others.
 
 ??? question "New to GitHub?"
 
-    Github is a version control platform. Version control allows you to take a snapshot of your project, so that you have a record
+    GitHub is a version control platform. Version control allows you to take a snapshot of your project, so that you have a record
     of what your project has looked like every step of the way. This also allows you to return to the previous version of a project.  
 
     Commonly used terms include the following:  
 
     **Repository**: A place to store files and code  
-    **Clone**: Creates a local copy of a Github repository  
-    **Push**: Updates Github repository to match the local copy  
-    **Pull**: Updates local copy to match the Github repository
+    **Clone**: Creates a local copy of a GitHub repository  
+    **Push**: Updates GitHub repository to match the local copy  
+    **Pull**: Updates local copy to match the GitHub repository
 
 ---
 
@@ -34,12 +34,12 @@ clone Github repositories, push and pull changes, and work on a codebase collabo
    This will cause the popup window "Add GitHub Account" to appear.
 6. **Click** [Generate]
 :  ![Add GitHub account pop up menu](assets/Token_03_Settings.png"Add GitHub account pop up menu")  
-   This will open Github on your preferred browser.
-7. **Confirm** access to Github by entering your password
-:  ![GitHub's Confirm Access webpage](assets/Token_04_Github_Access.png"GitHub's Confirm Access webpage")  
-:   It is assumed you are already [logged into your Github account](https://github.com/login).
+   This will open GitHub on your preferred browser.
+7. **Confirm** access to GitHub by entering your password
+:  ![GitHub's Confirm Access webpage](assets/Token_04_GitHub_Access.png"GitHub's Confirm Access webpage")  
+:   It is assumed you are already [logged into your GitHub account](https://GitHub.com/login).
 8. **Set** your token expiry date to 4 months (default 30 days)
-:    ![Setting token expiration date on Github](assets/Token_05_Github_Create_Token.png"Setting token expiration date on Github")
+:    ![Setting token expiration date on GitHub](assets/Token_05_GitHub_Create_Token.png"Setting token expiration date on GitHub")
 
     !!! warning "Warning - Token Expiry and Safety"
 
@@ -51,7 +51,7 @@ clone Github repositories, push and pull changes, and work on a codebase collabo
 
 9. **Check** all checkboxes and **click** [Generate Token] at the bottom of the page
 10. **Copy** the generated token
-:   ![Generated Github token to link with PyCharm](assets/Token_06_Github_Create_Token.png"Generated Github token to link with PyCharm")
+:   ![Generated GitHub token to link with PyCharm](assets/Token_06_GitHub_Create_Token.png"Generated GitHub token to link with PyCharm")
 11. **Switch** back to PyCharm and paste your token
 12. **Click** [Add Account]
 
