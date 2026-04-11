@@ -30,13 +30,17 @@ settings menu.
 
 5. **Focus** the automatically opened browser window.
 
-    ??? question "My browser does not open"
+    ??? question "What happens if I can't log in?"
         
         If your browser does not open or you encounter any problems, try to Log in manually by clicking the [Log in 
         manually] button on the small PyCharm popup window.
 
 6. **Log in** to the JetBrains page.
 : When successful you should be redirected to an "Authorization Successful" page that informs you that it is possible to return to the IDE. If you did not reach the "Authorization Successful" page, please follow this troubleshooting guide.
+
+    !!! success "Success"
+
+        You have successfully linked your JetBrains account to the PyCharm IDE and are ready to set up syncing.
 
 7. **Focus** the PyCharm window.
 : If you have successfully logged in, the Backup and Sync page will now contain a variety of new options.

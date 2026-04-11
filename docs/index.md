@@ -19,27 +19,20 @@ This guide is to assist British Columbia Institute of Technology (BCIT) students
 Technology (CST) Diploma at the Downtown campus (DTC) with setting up the JetBrains IDE, PyCharm, in preparation for the
 COMP 1510 course "Programming Methods".
 
-[//]: # (TODO: Says the same thing as above. change top to explain softwares intended use)
-
 ## Prerequisites
 
 * A laptop that you plan to use for the course running macOS or Windows that you have administrator permissions on.
-* Familiarity with using computers and basic computing terms. 
-* A GitHub account.
-* A JetBrains education account.
+* Familiarity with using computers and common computing terms. 
+* A [GitHub](https://www.github.com/) account.
+* A [JetBrains account](https://www.jetbrains.com/academy/student-pack/) with the student pack.
 * Connection to the internet to search and install software.
-* This guide assumes the user will be following from a new installation of PyCharm. 
+* This guide assumes the user will be following from a new installation of [PyCharm](https://www.jetbrains.com/pycharm/). 
    
     !!! note "Note - Changed settings"
       
         Users who have changed various settings since installation may run into conflict with previously made changes.
 
-[//]: # (TODO: add links to sites)
-
 ## Typographical Conventions
-
-These are the conventions that are used throughout this guide to maximize clarity.
-
 | Action               | Example                         |
 |----------------------|---------------------------------|
 | Action verb          | **Click**, **Type**, **Search** |

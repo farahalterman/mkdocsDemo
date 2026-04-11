@@ -1,10 +1,12 @@
 # Disabling AI
 
 ## Overview
-AI can be a powerful tool for programmers, and is often preinstalled and enabled by default in applications.
-A fresh installation of PyCharm comes with some of these basic tools and features already enabled. 
-A requirement for the COMP 1510 course at DTC, is for all AI coding assistance tools to be disabled in PyCharm.
-This guide provides step-by-step instructions on what specific settings need to be disabled.
+This guide provides instructions on what bundled AI features of PyCharm are required to be disabled for the COMP 1510 
+course.
+
+AI can be a powerful tool for programmers, and is often preinstalled and enabled by default in applications. A fresh 
+installation of PyCharm comes with some of these tools and features already enabled. A requirement for the COMP 
+1510 course at DTC, is for all AI coding assistance tools to be disabled in PyCharm.
 
 !!! danger "Danger - Course Requirements May Differ"
 
@@ -35,11 +37,13 @@ are accessing almost any part of the application.
 3. **Click** on [Settings...] in the drop-down menu.
 : ![The Settings... option in the dropdown menu](assets/disabling_ai_assets/topR_settings_dropdown.png "The \"Settings...\" menu option highlighted")
 : By default, the specific settings page that was last open will reopen. You can click on the various options in the left panel of the menu window to open, expand, or collapse them.
-: ![The PyCharm settings window](assets/disabling_ai_assets/settings_home.png "The PyCharm settings window")
 
 !!! success "Success"
 
     The settings menu has been successfully opened. Continue with the "Disabling AI Inline Completion" section.
+    
+    : ![The PyCharm settings window](assets/disabling_ai_assets/settings_home.png "The PyCharm settings window")
+    
 
 ??? note "Note - Settings Menu Shortcut"
 

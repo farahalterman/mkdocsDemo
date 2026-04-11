@@ -25,21 +25,21 @@ clone GitHub repositories, push and pull changes, and work on a codebase collabo
 :  Refer to [Opening the Settings Menu](Disabling_AI.md#opening-the-settings-menu) for detailed steps to open the settings menu.
 2. **Type** `version control` into the search bar
 3. **Click** [Version Control] > [GitHub] on the left side menu
-:   ![Settings menu highlighting GitHub](assets/Token_01_Settings.png"Settings menu highlighting GitHub")  
+:   ![Settings menu highlighting GitHub](assets/link_github/Token_01_Settings.png "Settings menu highlighting GitHub")  
 4. **Click** [+] in the top left corner of the menu
-:  ![Settings menu highlighting GitHub](assets/Token_02_Settings.png"Settings menu highlighting GitHub")  
+:  ![Settings menu highlighting GitHub](assets/link_github/Token_02_Settings.png "Settings menu highlighting GitHub")  
    After clicking [+], a selection box will popup.
 5. **Click** [Log In with Token]  
-   ![Log in with token pop up](assets/Token_03.5_Settings.png)  
+   ![Log in with token pop up](assets/link_github/Token_03.5_Settings.png "Log in with token pop up")  
    This will cause the popup window "Add GitHub Account" to appear.
 6. **Click** [Generate]
-:  ![Add GitHub account pop up menu](assets/Token_03_Settings.png"Add GitHub account pop up menu")  
+:  ![Add GitHub account pop up menu](assets/link_github/Token_03_Settings.png "Add GitHub account pop up menu")  
    This will open GitHub on your preferred browser.
 7. **Confirm** access to GitHub by entering your password
-:  ![GitHub's Confirm Access webpage](assets/Token_04_GitHub_Access.png"GitHub's Confirm Access webpage")  
+:  ![GitHub's Confirm Access webpage](assets/link_github/Token_04_Github_Access.png "GitHub's Confirm Access webpage")  
 :   It is assumed you are already [logged into your GitHub account](https://GitHub.com/login).
 8. **Set** your token expiry date to 4 months (default 30 days)
-:    ![Setting token expiration date on GitHub](assets/Token_05_GitHub_Create_Token.png"Setting token expiration date on GitHub")
+:    ![Setting token expiration date on GitHub](assets/link_github/Token_05_Github_Create_Token.png "Setting token expiration date on GitHub")
 
     !!! warning "Warning - Token Expiry and Safety"
 
@@ -51,7 +51,7 @@ clone GitHub repositories, push and pull changes, and work on a codebase collabo
 
 9. **Check** all checkboxes and **click** [Generate Token] at the bottom of the page
 10. **Copy** the generated token
-:   ![Generated GitHub token to link with PyCharm](assets/Token_06_GitHub_Create_Token.png"Generated GitHub token to link with PyCharm")
+:   ![Generated GitHub token to link with PyCharm](assets/link_github/Token_06_Github_Create_Token.png "Generated GitHub token to link with PyCharm")
 11. **Switch** back to PyCharm and paste your token
 12. **Click** [Add Account]
 
