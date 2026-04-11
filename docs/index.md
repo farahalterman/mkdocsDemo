@@ -2,9 +2,10 @@
 
 ## Overview
 
-This guide is to assist British Columbia Institute of Technology (BCIT) students enrolled in the Computer Systems 
-Technology (CST) Diploma at the Downtown campus (DTC) with setting up the JetBrains IDE, PyCharm, in preparation for the
-COMP 1510 course "Programming Methods".
+This guide is to assist students beginning the COMP 1510 course "Programming Methods" at BCIT with setting up the 
+PyCharm IDE in preparation to the beginning of the course. PyCharm is a piece of software known as an Integrated 
+Development Environment or IDE. These tools are designed to enable developers to write and test code as efficiently as 
+possible. Ensuring your IDE has the proper setup can help new users have an easier adjustment period.
 
 !!! note "Note - Possible Visual Differences"
 
@@ -14,8 +15,9 @@ COMP 1510 course "Programming Methods".
 
 ## Intended Users
 
-The intended users of this guide are people who are planning to take the COMP 1510 course "Programming Methods" at BCIT
-in the Downtown Campus, or are enrolled and have not begun classes. 
+This guide is to assist British Columbia Institute of Technology (BCIT) students enrolled in the Computer Systems
+Technology (CST) Diploma at the Downtown campus (DTC) with setting up the JetBrains IDE, PyCharm, in preparation for the
+COMP 1510 course "Programming Methods".
 
 [//]: # (TODO: Says the same thing as above. change top to explain softwares intended use)
 
@@ -36,19 +38,17 @@ in the Downtown Campus, or are enrolled and have not begun classes.
 
 ## Typographical Conventions
 
-[//]: # (TODO: add explanation of what this is)
+These are the conventions that are used throughout this guide to maximize clarity.
 
-| Action          | Example                         |
-|-----------------|---------------------------------|
-| Action Verb     | **Click**, **Type**, **Search** |
-| Optional        | (*Optional*)                    |
-| Button          | [Settings…], [VCS], [Run]       |
-| Button Sequence | [File] > [Settings]             |
-| Shortcuts       | `Ctrl + Alt + s`                |
-| Text to type    | `Example text`                  |
-
-[//]: # (TODO: add text in "" to ^^^)
-
+| Action               | Example                         |
+|----------------------|---------------------------------|
+| Action verb          | **Click**, **Type**, **Search** |
+| Section or page name | "Section Name", "Page Title"    |
+| Button               | [Settings…], [VCS], [Run]       |
+| Button sequence      | [File] > [Settings]             |
+| Text to type         | `Example text`                  |
+| Optional             | (*Optional*)                    |
+| Shortcuts            | `Ctrl + Alt + s`                |
 
 ## Notes, Warnings, and Admonitions
 
