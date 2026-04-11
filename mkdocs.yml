@@ -1,5 +1,5 @@
 site_name: PyCharm Documentation for COMP 1510
-site_url: https://sitename.example
+site_url: https://farahalterman.github.io/mkdocsDemo/
 theme:
   name: material
   palette:
